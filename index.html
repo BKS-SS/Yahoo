@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="content-language" content="ja" />
+  <title>QR2NortonProductkeys.</title>
+
+  <link rel="manifest" href="manifest.json">
+  <meta name="apple-mobile-web-app-title" content="<?php bloginfo( "Yahoo!" ); ?>">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <link rel="apple-touch-icon-precomposed" href="./images/y192.png">
+</head>
+
+<script>
+  window.addEventListener("load", () => {
+    if ("serviceWorker" in navigator) {
+      navigator.serviceWorker.register("serviceWorker.js").then(registration =>
+        console.log("success, scope:", registration.scope)
+      ).catch((err) => console.warn("failed: ", err));
+    }
+  });
+</script>
