@@ -11,12 +11,12 @@
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "./Yahoo/images/y48.png",
+      "src": "images/y48.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "/images/y72.png",
+      "src": "images/y72.png",
       "sizes": "72x72",
       "type": "image/png"
     },
@@ -26,22 +26,22 @@
       "type": "image/png"
     },
     {
-      "src": "./images/y144.png",
+      "src": "images/y144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "./images/y192.png",
+      "src": "images/y192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "./images/y256.png",
+      "src": "images/y256.png",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "./images/y512.png",
+      "src": "images/y512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
