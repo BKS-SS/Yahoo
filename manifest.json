@@ -7,7 +7,7 @@
   "background_color": "#ff0000",
   "display": "browser",
   "scope": "/",
-  "start_url": "https://yahoo.jp/McBtcp"
+  "start_url": "https://yahoo.jp/McBtcp",
   "icons": [
     {
       "src": "./images/y48.png",
