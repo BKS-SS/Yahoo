@@ -1,13 +1,14 @@
 {
-  "lang": "ja",
+  "lang": "ja-jp",
   "description": "Yahoo! JAPAN",
   "name": "Yahoo! JAPAN",
   "short_name": "Yahoo!",
   "theme_color": "#ffffff",
   "background_color": "#ff0000",
   "display": "browser",
-  "scope": "/",
   "start_url": "https://yahoo.jp/McBtcp",
+  "related_applications": [ ],
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "./images/y48.png",
@@ -44,5 +45,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
+  ]
 }
