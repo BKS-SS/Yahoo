@@ -1,3 +1,3 @@
 # Yahoo! Create Home Icon.
 https://bksss.github.io/Yahoo/
-![Yahoo!](https://github.com/BKS-SS/Yahoo/blob/main/YahooIconQR.png "Yahoo!")
+<img src="https://github.com/BKS-SS/Yahoo/blob/main/YahooIconQR.png" width="192">
