@@ -7,7 +7,6 @@
   "background_color": "#ff0000",
   "display": "standalone",
   "start_url": "https://yahoo.jp/McBtcp",
-  "@start_url": "https://www.yahoo.co.jp/?fr=top_bic19h2a_ext",
   "related_applications": [ ],
   "prefer_related_applications": false,
   "icons": [
